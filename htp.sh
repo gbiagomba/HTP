@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 
 # HTP (Hack The Printer) v1.1
 # Release on 18/12/2018
